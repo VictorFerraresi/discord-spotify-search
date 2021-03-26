@@ -1,0 +1,29 @@
+{
+  "name": "discord-spotify-search",
+  "version": "1.0.0",
+  "description": "Searches for songs in spotify and forwards to a bot to play it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorFerraresi/discord-spotify-search.git"
+  },
+  "author": "Victor Ferraresi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorFerraresi/discord-spotify-search/issues"
+  },
+  "homepage": "https://github.com/VictorFerraresi/discord-spotify-search#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "discord.js": "^12.3.1",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^14.11.2",
+    "@types/winston": "^2.4.4",
+    "typescript": "^4.0.3"
+  }
+}
