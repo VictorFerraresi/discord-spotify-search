@@ -13,6 +13,7 @@ export const config = {
   bot: {
     token: "CHANGEME",
     prefix: ";",
+    musicChannel: "406257183605653505",
   },
   spotify: {
     client_id: "CHANGEME",
